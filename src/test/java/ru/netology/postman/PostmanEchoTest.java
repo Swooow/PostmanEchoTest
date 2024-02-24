@@ -12,7 +12,7 @@ class PostmanEchoTest {
         var text = "Hello";
         given()
                 .baseUri("https://postman-echo.com")
-                .body(text)
+                .body("hello")
                 .when()
                 .post("/post")
                 .then()
