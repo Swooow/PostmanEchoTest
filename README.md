@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Swooow/PostmanEchoTest/actions/workflows/gradle.yml/badge.svg)](https://github.com/Swooow/PostmanEchoTest/actions/workflows/gradle.yml)
